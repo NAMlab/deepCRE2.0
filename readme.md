@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/840200856.svg)](https://doi.org/10.5281/zenodo.24534071)
 # User Manual: DeepCRE
 
 ## Table of Contents
